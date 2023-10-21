@@ -16,3 +16,5 @@ Docker bind volume (interactive changes on host and container)<br>
 Docker network create todo-app (container communication)<br>
 Docker attach MySql and App to network<br>
 Docker compose (multi-container) to run everything learned with a simple docker compose up -d using the compose.yml
+
+![Docker Project](./image.png)
